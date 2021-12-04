@@ -1,0 +1,5 @@
+https://docs.microsoft.com/en-us/learn/certifications/azure-network-engineer-associate/
+
+https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/hybrid-networking/hub-spoke?tabs=portal
+
+https://docs.microsoft.com/en-us/azure/architecture/browse/
