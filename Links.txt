@@ -3,3 +3,19 @@ https://docs.microsoft.com/en-us/learn/certifications/azure-network-engineer-ass
 https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/hybrid-networking/hub-spoke?tabs=portal
 
 https://docs.microsoft.com/en-us/azure/architecture/browse/
+
+https://docs.microsoft.com/en-us/learn/modules/introduction-to-azure-virtual-networks/
+
+https://docs.microsoft.com/en-us/learn/modules/design-implement-hybrid-networking/
+
+https://docs.microsoft.com/en-us/learn/modules/design-implement-azure-expressroute/
+
+https://docs.microsoft.com/en-us/learn/modules/load-balancing-non-https-traffic-azure/
+
+https://docs.microsoft.com/en-us/learn/modules/load-balancing-https-traffic-azure/
+
+https://docs.microsoft.com/en-us/learn/modules/design-implement-network-security-monitoring/
+
+https://docs.microsoft.com/en-us/learn/modules/design-implement-private-access-to-azure-services/
+
+https://docs.microsoft.com/en-us/learn/modules/design-implement-network-monitoring/
