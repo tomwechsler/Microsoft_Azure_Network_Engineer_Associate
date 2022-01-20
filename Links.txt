@@ -1,8 +1,6 @@
-https://docs.microsoft.com/en-us/learn/certifications/azure-network-engineer-associate/
+Microsoft Learn
 
-https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/hybrid-networking/hub-spoke?tabs=portal
-
-https://docs.microsoft.com/en-us/azure/architecture/browse/
+------------------------
 
 https://docs.microsoft.com/en-us/learn/modules/introduction-to-azure-virtual-networks/
 
@@ -19,6 +17,15 @@ https://docs.microsoft.com/en-us/learn/modules/design-implement-network-security
 https://docs.microsoft.com/en-us/learn/modules/design-implement-private-access-to-azure-services/
 
 https://docs.microsoft.com/en-us/learn/modules/design-implement-network-monitoring/
+
+------------------------
+
+
+https://docs.microsoft.com/en-us/learn/certifications/azure-network-engineer-associate/
+
+https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/hybrid-networking/hub-spoke?tabs=portal
+
+https://docs.microsoft.com/en-us/azure/architecture/browse/
 
 https://docs.microsoft.com/en-us/azure/networking/
 
