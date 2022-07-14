@@ -15,15 +15,15 @@ https://www.thomasmaurer.ch/2021/06/az-700-study-guide-microsoft-azure-networkin
 More helpful information directly from Microsoft, divided into the functional groups (Skills measured)!
 -------------------
 
-**Design, implement, and manage hybrid networking**
+**Design, implement, and manage hybrid networking:**
 
-**Design and implement core networking infrastructure**
+**Design and implement core networking infrastructure:**
 
-**Design and implement routing**
+**Design and implement routing:**
 
-**Secure and monitor networks**
+**Secure and monitor networks:**
 
-**Design and implement Private access to Azure Services**
+**Design and implement Private access to Azure Services:**
 
 
 coming soon!
