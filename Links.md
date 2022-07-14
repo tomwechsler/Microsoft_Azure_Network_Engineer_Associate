@@ -6,7 +6,7 @@ https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4OV0k
 
 Microsoft Learn:
 -------------------
-
+https://docs.microsoft.com/en-us/learn/paths/design-implement-microsoft-azure-networking-solutions-az-700/
 
 Thomas Maurer's Study Guide:  
 -------------------
