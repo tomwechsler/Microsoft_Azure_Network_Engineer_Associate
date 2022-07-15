@@ -91,6 +91,54 @@ https://docs.microsoft.com/en-us/azure/expressroute/expressroute-troubleshooting
 
 **Design and implement core networking infrastructure:**
 
+https://docs.microsoft.com/en-us/azure/virtual-network/quick-create-portal
+
+https://techcommunity.microsoft.com/t5/itops-talk-blog/configuring-azure-virtual-network-subnets-with-cidr-notation/ba-p/2047809
+
+https://docs.microsoft.com/en-us/azure/application-gateway/configuration-infrastructure
+
+https://docs.microsoft.com/en-us/azure/virtual-network/subnet-delegation-overview
+
+https://docs.microsoft.com/en-us/azure/virtual-network/manage-subnet-delegation
+
+https://docs.microsoft.com/en-us/azure/route-server/quickstart-configure-route-server-portal
+
+https://docs.microsoft.com/en-us/azure/architecture/hybrid/hybrid-dns-infra
+
+https://docs.microsoft.com/en-us/azure/dns/private-dns-privatednszone
+
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-name-resolution-for-vms-and-role-instances
+
+https://docs.microsoft.com/en-us/azure/dns/dns-getstarted-portal
+
+https://docs.microsoft.com/en-us/azure/dns/private-dns-getstarted-portal
+
+https://docs.microsoft.com/en-us/azure/dns/private-dns-getstarted-portal#link-the-virtual-network
+
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-peering-overview#service-chaining
+
+https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-vnet-vnet-resource-manager-portal
+
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-manage-peering
+
+https://docs.microsoft.com/en-us/azure/virtual-wan/virtual-wan-about
+
+https://docs.microsoft.com/en-us/azure/virtual-wan/migrate-from-hub-spoke-topology#architecture
+
+https://docs.microsoft.com/en-us/azure/virtual-wan/connect-virtual-network-gateway-vwan
+
+https://docs.microsoft.com/en-us/azure/virtual-wan/virtual-wan-site-to-site-portal#hub
+
+https://docs.microsoft.com/en-us/azure/virtual-wan/about-nva-hub
+
+https://docs.microsoft.com/en-us/azure/virtual-wan/how-to-nva-hub
+
+https://docs.microsoft.com/en-us/azure/virtual-wan/about-virtual-hub-routing
+
+https://docs.microsoft.com/en-us/azure/virtual-wan/how-to-virtual-hub-routing
+
+https://docs.microsoft.com/en-us/azure/virtual-wan/pricing-concepts#connection-unit
+
 **Design and implement routing:**
 
 **Secure and monitor networks:**
