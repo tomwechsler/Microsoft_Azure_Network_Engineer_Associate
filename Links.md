@@ -195,6 +195,30 @@ https://docs.microsoft.com/en-us/azure/application-gateway/application-gateway-e
 
 https://docs.microsoft.com/en-us/azure/application-gateway/rewrite-url-portal
 
+https://docs.microsoft.com/en-us/azure/frontdoor/standard-premium/tier-comparison
+
+https://docs.microsoft.com/en-us/azure/frontdoor/health-probes
+
+https://docs.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-configure-https-custom-domain
+
+https://docs.microsoft.com/en-us/azure/application-gateway/multiple-site-overview
+
+https://docs.microsoft.com/en-us/azure/frontdoor/origin?pivots=front-door-standard-premium
+
+https://docs.microsoft.com/en-us/azure/frontdoor/front-door-route-matching?pivots=front-door-standard-premium
+
+https://docs.microsoft.com/en-us/azure/frontdoor/front-door-how-to-redirect-https
+
+https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-routing-methods
+
+https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-configure-priority-routing-method
+
+https://docs.microsoft.com/en-us/azure/traffic-manager/quickstart-create-traffic-manager-profile#add-traffic-manager-endpoints
+
+https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-monitoring#configure-endpoint-monitoring
+
+https://docs.microsoft.com/en-us/azure/virtual-network/nat-gateway/nat-overview
+
 **Secure and monitor networks:**
 
 **Design and implement Private access to Azure Services:**
