@@ -141,6 +141,60 @@ https://docs.microsoft.com/en-us/azure/virtual-wan/pricing-concepts#connection-u
 
 **Design and implement routing:**
 
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-udr-overview
+
+https://docs.microsoft.com/en-us/azure/virtual-network/tutorial-create-route-table-portal
+
+https://docs.microsoft.com/en-us/azure/virtual-network/manage-route-table#associate-a-route-table-to-a-subnet
+
+https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-forced-tunneling-rm
+
+https://docs.microsoft.com/en-us/azure/network-watcher/diagnose-vm-network-routing-problem-powershell
+
+https://docs.microsoft.com/en-us/azure/virtual-network/diagnose-network-routing-problem
+
+https://docs.microsoft.com/en-us/azure/route-server/route-server-faq
+
+https://docs.microsoft.com/en-us/azure/load-balancer/skus
+
+https://docs.microsoft.com/en-us/azure/load-balancer/load-balancer-overview
+
+https://docs.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-public-portal?tabs=option-1-create-load-balancer-standard
+
+https://docs.microsoft.com/en-us/azure/load-balancer/tutorial-cross-region-portal
+
+https://docs.microsoft.com/en-us/azure/virtual-machines/windows/tutorial-load-balancer#create-a-load-balancer-rule
+
+https://docs.microsoft.com/en-us/azure/load-balancer/tutorial-load-balancer-port-forwarding-portal#create-an-inbound-nat-port-forwarding-rule
+
+https://docs.microsoft.com/en-us/azure/load-balancer/outbound-rules
+
+https://docs.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-public-portal?tabs=option-1-create-load-balancer-standard#create-outbound-rule-configuration
+
+https://docs.microsoft.com/en-us/azure/application-gateway/quick-create-portal
+
+https://docs.microsoft.com/en-us/azure/application-gateway/quick-create-powershell
+
+https://docs.microsoft.com/en-us/azure/application-gateway/quick-create-cli
+
+https://docs.microsoft.com/en-us/azure/application-gateway/quick-create-template
+
+https://docs.microsoft.com/en-us/azure/application-gateway/application-gateway-autoscaling-zone-redundant#scaling-application-gateway-and-waf-v2
+
+https://docs.microsoft.com/en-us/azure/application-gateway/quick-create-portal#backends-tab
+
+https://docs.microsoft.com/en-us/azure/application-gateway/application-gateway-create-probe-portal#create-probe-for-application-gateway-v2-sku
+
+https://docs.microsoft.com/en-us/azure/application-gateway/configuration-listeners
+
+https://docs.microsoft.com/en-us/azure/application-gateway/configuration-request-routing-rules
+
+https://docs.microsoft.com/en-us/azure/application-gateway/configuration-http-settings
+
+https://docs.microsoft.com/en-us/azure/application-gateway/application-gateway-end-to-end-ssl-powershell
+
+https://docs.microsoft.com/en-us/azure/application-gateway/rewrite-url-portal
+
 **Secure and monitor networks:**
 
 **Design and implement Private access to Azure Services:**
