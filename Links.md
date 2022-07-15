@@ -221,6 +221,70 @@ https://docs.microsoft.com/en-us/azure/virtual-network/nat-gateway/nat-overview
 
 **Secure and monitor networks:**
 
+https://docs.microsoft.com/en-us/azure/firewall/tutorial-firewall-deploy-portal
+
+https://docs.microsoft.com/en-us/azure/firewall/tutorial-firewall-deploy-portal-policy
+
+https://docs.microsoft.com/en-us/azure/firewall/rule-processing
+
+https://docs.microsoft.com/en-us/azure/firewall-manager/policy-overview
+
+https://docs.microsoft.com/en-us/azure/virtual-wan/howto-firewall
+
+https://docs.microsoft.com/en-us/azure/firewall-manager/secure-cloud-network
+
+https://docs.microsoft.com/en-us/azure/virtual-wan/about-nva-hub
+
+https://docs.microsoft.com/en-us/azure/virtual-wan/scenario-route-through-nva
+
+https://docs.microsoft.com/en-us/azure/virtual-network/manage-network-security-group#create-a-network-security-group
+
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-network-interface#associate-or-dissociate-a-network-security-group
+
+https://docs.microsoft.com/en-us/azure/virtual-network/tutorial-filter-network-traffic#associate-network-security-group-to-subnet
+
+https://docs.microsoft.com/en-us/azure/virtual-network/tutorial-filter-network-traffic#create-application-security-groups
+
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-network-interface#associate-or-dissociate-a-network-security-group
+
+https://docs.microsoft.com/en-us/azure/virtual-network/manage-network-security-group#create-a-security-rule
+
+https://docs.microsoft.com/en-us/azure/network-watcher/network-watcher-read-nsg-flow-logs
+
+https://docs.microsoft.com/en-us/azure/network-watcher/network-watcher-nsg-flow-logging-overview
+
+https://docs.microsoft.com/en-us/azure/network-watcher/network-watcher-ip-flow-verify-overview
+
+https://docs.microsoft.com/en-us/azure/web-application-firewall/ag/ag-overview
+
+https://docs.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-create-portal
+
+https://docs.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-drs
+
+https://docs.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-custom-rules
+
+https://docs.microsoft.com/en-us/azure/web-application-firewall/ag/application-gateway-crs-rulegroups-rules
+
+https://docs.microsoft.com/en-us/azure/web-application-firewall/ag/custom-waf-rules-overview
+
+https://docs.microsoft.com/en-us/azure/web-application-firewall/ag/create-custom-waf-rules
+
+https://docs.microsoft.com/en-us/azure/web-application-firewall/ag/create-waf-policy-ag
+
+https://docs.microsoft.com/en-us/azure/web-application-firewall/ag/associate-waf-policy-existing-gateway
+
+https://docs.microsoft.com/en-us/azure/azure-monitor/insights/network-insights-overview
+
+https://docs.microsoft.com/en-us/azure/network-watcher/connection-monitor-create-using-portal
+
+https://docs.microsoft.com/en-us/azure/network-watcher/traffic-analytics
+
+https://docs.microsoft.com/en-us/azure/network-watcher/network-watcher-nsg-flow-logging-azure-resource-manager
+
+https://docs.microsoft.com/en-us/azure/azure-monitor/essentials/diagnostic-settings
+
+https://docs.microsoft.com/en-us/azure/network-watcher/network-watcher-create
+
 **Design and implement Private access to Azure Services:**
 
 
