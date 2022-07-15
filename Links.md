@@ -12,6 +12,10 @@ Thomas Maurer's Study Guide:
 -------------------
 https://www.thomasmaurer.ch/2021/06/az-700-study-guide-microsoft-azure-networking-solutions/
 
+John Savill's YouTube Video Study Guide:  
+-------------------
+https://youtu.be/nVZYDhB_M64
+
 More helpful information directly from Microsoft, divided into the functional groups (Skills measured)!
 -------------------
 
