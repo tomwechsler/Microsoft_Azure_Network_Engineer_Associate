@@ -287,5 +287,30 @@ https://docs.microsoft.com/en-us/azure/network-watcher/network-watcher-create
 
 **Design and implement Private access to Azure Services:**
 
+https://docs.microsoft.com/en-us/azure/private-link/create-private-link-service-portal
 
-coming soon!
+https://docs.microsoft.com/en-us/azure/private-link/private-endpoint-overview
+
+https://docs.microsoft.com/en-us/azure/private-link/create-private-endpoint-portal
+
+https://docs.microsoft.com/en-us/azure/storage/common/storage-private-endpoints
+
+https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/private-link-and-dns-integration-at-scale
+
+https://docs.microsoft.com/en-us/azure/private-link/private-link-service-overview
+
+https://docs.microsoft.com/en-us/azure/private-link/tutorial-private-endpoint-sql-portal
+
+https://docs.microsoft.com/en-us/azure/virtual-network/tutorial-restrict-network-access-to-resources
+
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-service-endpoint-policies-portal
+
+https://docs.microsoft.com/en-us/azure/virtual-network/service-tags-overview
+
+https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-service-endpoints
+
+https://docs.microsoft.com/en-us/azure/app-service/overview-vnet-integration
+
+https://docs.microsoft.com/en-us/azure/aks/private-clusters
+
+https://docs.microsoft.com/en-us/azure/app-service/environment/using-an-ase
