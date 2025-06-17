@@ -2,3 +2,6 @@
 
 curl https://raw.githubusercontent.com/tomwechsler/Microsoft_Azure_Network_Engineer_Associate/refs/heads/main/05_Design_and_implement_cross_VNet_connectivity/05_01_peering_demo_buildout.ps1 -o setup.ps1
 . ./setup.ps1
+
+#To hide cost recommendations
+az config set core.display_region_identified=false
