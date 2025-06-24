@@ -1,4 +1,4 @@
-# These commands will be used to setup demos and pull down scripts from GitHub - Copy/Paste the below commands into Cloud Shell PowerShell Environment
+# These commands will be used to setup demos and pull down scripts from GitHub - Copy/Paste the below commands into Cloud Shell Bash Environment
 
 curl https://raw.githubusercontent.com/tomwechsler/Microsoft_Azure_Network_Engineer_Associate/refs/heads/main/06_Implement_and_design_network_security_groups/06_01_nsg_buildout.ps1 -o setup.ps1
 . ./setup.ps1
