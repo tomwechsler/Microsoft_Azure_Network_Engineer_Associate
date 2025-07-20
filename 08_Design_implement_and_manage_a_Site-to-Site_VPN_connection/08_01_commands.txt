@@ -1,0 +1,7 @@
+# These commands will be used to setup demos and pull down scripts from GitHub - Copy/Paste the below commands into Cloud Shell Bash Environment
+
+curl https://raw.githubusercontent.com/tomwechsler/Microsoft_Azure_Network_Engineer_Associate/refs/heads/main/08_Design_implement_and_manage_a_Site-to-Site_VPN_connection/08_01_vnet_buildout.ps1 -o setup.ps1
+. ./setup.ps1
+
+#To hide cost recommendations
+az config set core.display_region_identified=false
