@@ -1,0 +1,19 @@
+# These commands will be used to setup demos and pull down scripts from GitHub - Copy/Paste the below commands into Cloud Shell Bash Environment
+
+curl https://raw.githubusercontent.com/tomwechsler/Microsoft_Azure_Network_Engineer_Associate/refs/heads/main/13_Design_and_implement_azure_application_gateway/13_01_app_gw_demo_buildout.json -o setup.json
+
+In the setup.json file, change:
+
+"appServicePlanName": "cake-hub-web-app-plan",
+"webAppPortalName": "cake-hub-web-app",
+
+To be:
+
+"appServicePlanName": "cake-hub-web-app-plan-[some unique characters]",
+
+rg=az700
+
+az deployment group create --resource-group $rg --template-file setup.json
+
+You will be prompted for any username and password.
+Click enter when asked about the '_artifactsLocationSasToken'.
