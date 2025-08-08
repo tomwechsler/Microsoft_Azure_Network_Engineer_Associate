@@ -25,7 +25,7 @@
       "spokeVNetAddressPrefix": "10.120.0.0/16",
       "spokeSubnetAddressPrefix": "10.120.0.0/24",
       "spokeNsgName": "cake-spoke-nsg-01",
-      "spokeLocation": "westeurope",
+      "spokeLocation": "switzerlandnorth",
       "spokeAppServiceSubnetName": "spoke-app-subnet",
       "spokeAppServiceSubnetAddressPrefix": "10.120.1.0/24"
     },
